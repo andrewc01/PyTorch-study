@@ -1,3 +1,3 @@
 # PyTorch-study
 
-This is where I study PyTorch by following [ZTM PyTorch Course by Daniel Bourke](https://zerotomastery.io/courses/learn-pytorch/). 
+This is where I study PyTorch by following [official tutorial]([https://zerotomastery.io/courses/learn-pytorch/](https://pytorch.org/tutorials/)https://pytorch.org/tutorials/). 
